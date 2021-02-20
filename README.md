@@ -1,2 +1,3 @@
 # games
-classic games
+Classic games - Pong, Snake
+
