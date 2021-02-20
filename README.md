@@ -1,3 +1,3 @@
-# games
+# Games
 Classic games - Pong, Snake
 
